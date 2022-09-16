@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA, Spring Boot, Hibernate**
 
-- 👨‍💻 All of my projects are available at [https://ravisheksingh.github.io/](https://ravisheksingh.github.io/)
+- 👨‍💻 All of my projects are available at [ravisheksingh.github.io/](ravisheksingh.github.io/)
 
 - 💬 Ask me about **JAVA,HTML, CSS, JavaScript**
 
