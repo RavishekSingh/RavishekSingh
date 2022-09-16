@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravishek Singh</h1>
-<h3 align="center">Task driven and an innovative problem solver, I am building my skills as a Full Stack Web Developer with a focus on the Backend.I have previously worked as a Process Engineer for an automotive company. Now looking forward to make an impact by leveraging my whole skills to make an incredible websites.</h3>
+<h3 align="center">Task driven and an innovative problem solver, I am building my skills as a Full Stack Web Developer with a focus on the Backend.Now looking forward to make an impact by leveraging my whole skills to make an incredible websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisheksingh&label=Profile%20views&color=0e75b6&style=flat" alt="ravisheksingh" /> </p>
 
