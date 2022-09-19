@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JAVA,HTML, CSS, JavaScript**
 
-- 📫 How to reach me **ravishingsingh1@gmail.com**
+- 📫 Contact Me **ravishingsingh1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
