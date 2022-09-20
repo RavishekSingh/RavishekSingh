@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisheksingh&label=Profile%20views&color=0e75b6&style=flat" alt="ravisheksingh" /> </p>
 
-<img align="right" src="" alt="aman-sharma-697454234" height="400" width="500" />
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1sgCr4yml6pUPxT7VNqHEJ&ust=1663794708961000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCynvekpPoCFQAAAAAdAAAAABAJ" alt="" height="400" width="500" />
 
 - 🌱 I’m currently learning **JAVA, Spring Boot, Hibernate**
 
