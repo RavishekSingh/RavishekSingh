@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My PortFolio](https://ravisheksingh.github.io/)
 
-- 💬 Ask me about **JAVA,Spring Boot, MySQL, HTML, CSS, JavaScript**
+- 💬 Ask me about **JAVA, Spring Boot, MySQL, HTML, CSS, JavaScript**
 
 - 📫 Contact Me **ravishingsingh1@gmail.com**
 
