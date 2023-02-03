@@ -5,7 +5,7 @@
 
 <img align="right" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w911" alt="" height="400" width="500" />
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Backend Development.**
 
 - 👨‍💻 All of my projects are available at [My PortFolio](https://ravisheksingh.github.io/)
 
